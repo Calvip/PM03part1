@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PM03part1
 =======
 # Запуск
@@ -17,4 +17,3 @@ flask db init
 flask db migrate -m "Add table"
 flask db upgrade
 ```
->>>>>>> b0cbca8 (first commit)
